@@ -1,0 +1,15 @@
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.exe
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.deps.json
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.runtimeconfig.json
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.dll
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\bin\Debug\net6.0\Gabarito.pdb
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.csproj.AssemblyReference.cache
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.AssemblyInfoInputs.cache
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.AssemblyInfo.cs
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.csproj.CoreCompileInputs.cache
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.dll
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\refint\Gabarito.dll
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.pdb
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\Gabarito.genruntimeconfig.cache
+C:\Users\2022102020029\source\repos\Gabarito\Gabarito\obj\Debug\net6.0\ref\Gabarito.dll
